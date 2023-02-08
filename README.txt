@@ -1,8 +1,7 @@
-WGU C195: Scheduling Based Application
+Scheduling Based Application
 
 Author: Austin T. Puhak
-Student ID: 010500702
-Contact: apuhak@wgu.edu
+Contact: austinpuhak@gmail.com
 Version: 1.0.0
 Date: 01/19/2023
 
@@ -45,9 +44,6 @@ the Reports Screen.
 This submission includes two separate lambda expressions. The first will be located inside several functions when a dialog
 box is called. The second will be located near the top variable initializers that simplify where all login attempts, success/failure,
 and logout timestamps go.
-
-The JavaDoc will be located under the puhak.firstscreen folder and opened by clicking module-summary. EVERYTHING has been notated
-within Javadoc.
 
 
 Scenario:
